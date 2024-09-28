@@ -1,0 +1,10 @@
+carro ribeirao ----> barretos 90km/h  1h38 min com o pedagio
+
+caminhao barretos ----> ribeirao 80km/h =  1h34min
+
+eles vao se cruzar em 44 min
+
+O carro vai estar mais proximo 
+vai ter percorrido aproximadamente 66km 
+
+e o caminhao vai faltar percorrer mais que os 66 km
